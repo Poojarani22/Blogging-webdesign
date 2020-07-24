@@ -1,0 +1,23 @@
+@font-face{
+    font-family: Abel;
+    src:url("../fonts/Abel/Abel-Regular.ttf");
+}
+
+@font-face{
+    font-family: Amatic_SC;
+    src:url("../fonts/Amatic_SC/AmaticSC-Regular.ttf");
+}
+
+@font-face{
+    font-family: Cuprum;
+    src:url("../fonts/Cuprum/Cuprum-Regular.ttf");
+}
+
+@font-face{
+    font-family: Livvic;
+    src:url("../fonts/Livvic/Livvic-Medium.ttf");
+}
+@font-face{
+    font-family: Lexend_Deca;
+    src:url("../fonts/Lexend_Deca/LexendDeca-Regular.ttf");
+}
